@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - kaggle https://www.kaggle.com/kjman666
 
 ### Get in touch
-- blog:https://megane-man666.hatenablog.com/
+- blog:(new)https://zenn.dev/megane_otoko
+　(old)https://megane-man666.hatenablog.com/
 - twitter:https://twitter.com/megane_kiton
 https://docs.google.com/presentation/d/1LfiQokNfJUqBgGzAAxp8vsim7qlLQoLEhessKdYJlio/edit#slide=id.g8e76c726df_0_1
 ‐ Speaker Deck https://speakerdeck.com/kjman678
