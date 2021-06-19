@@ -10,8 +10,9 @@ Here are some ideas to get you started:
 ![koji's github stats](https://github-readme-stats.vercel.app/api?username=KJMAN678&show_icons=true&theme=cobalt)
 
 ### Interest
-- Python
+- Python <img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat">
 - Machine Learning (Data Analysis, NLP, Image Analysis、Reinforce Learning)
+- Golang
 
 ### Get in touch
 - blog:
