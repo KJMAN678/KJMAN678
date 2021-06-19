@@ -20,3 +20,7 @@ Here are some ideas to get you started:
 　- (old)https://megane-man666.hatenablog.com/
 - twitter:https://twitter.com/megane_kiton
 ‐ Speaker Deck https://speakerdeck.com/kjman678
+
+### Qualification
+- AtCoder Practical Test  Entry
+- Azure AI-100
