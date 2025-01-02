@@ -16,11 +16,12 @@ Here are some ideas to get you started:
 
 ### Get in touch
 - blog:
-  - (new)https://zenn.dev/megane_otoko
-　- (old)https://megane-man666.hatenablog.com/
+  - https://qiita.com/koji__
+  - (old 1)https://zenn.dev/megane_otoko
+　- (old 2)https://megane-man666.hatenablog.com/
 - twitter:https://twitter.com/megane_kiton
 ‐ Speaker Deck https://speakerdeck.com/kjman678
 
 ### Qualification
-- AtCoder Practical Test  Entry
-- Azure AI-100
+- AtCoder Practical Test Beginner
+- JDLA Deep Learning for GENERAL
