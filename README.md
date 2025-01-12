@@ -5,13 +5,13 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Work:AI Engineer
+- 🔭 Work:Web Engineer
 
 ![koji's github stats](https://github-readme-stats.vercel.app/api?username=KJMAN678&show_icons=true&theme=cobalt)
 
 ### Interest
 - Python <img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat">
-- Machine Learning (Data Analysis, NLP, Image Analysis、Reinforce Learning)
+- Web
 - Golang
 
 ### Get in touch
