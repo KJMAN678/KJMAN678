@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Get in touch
 - blog:
-  - https://qiita.com/koji__  
+  - https://bit.ly/3XIOih6
   - (old 1)https://zenn.dev/megane_otoko  
 　- (old 2)https://megane-man666.hatenablog.com/  
 - twitter:https://twitter.com/megane_kiton  
