@@ -8,8 +8,8 @@
 
 ### 興味
 - Python <img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat">
-- Web
-- Mobile App
+- Web <img src="https://img.shields.io/badge/django-092E20?logo=django&logoColor=white">
+- Mobile App <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white">
 
 ### Get in touch
 - [blog](https://zenn.dev/megane_otoko)
