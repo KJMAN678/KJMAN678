@@ -4,7 +4,7 @@
 
 - 🔭 Work:Web Engineer
 
-![koji's github stats](https://github-readme-stats.vercel.app/api?username=KJMAN678&show_icons=true&theme=cobalt)
+![GitHub Card](https://githubcard.com/KJMAN678.svg?d=UBu0YJCQ)
 
 ### 興味
 - Python <img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat">
